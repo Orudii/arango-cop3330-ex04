@@ -36,7 +36,7 @@ public class App {
         String adj = input.nextLine();
 
         System.out.print("Enter an adverb: ");
-        String adv = input.nextLine();
+        String adv = input.nextLine() ;
 
         System.out.println("Do you " +verb+ " your " +adj+ " " +noun+ " " +adv+"? That's hilarious!");
     }
